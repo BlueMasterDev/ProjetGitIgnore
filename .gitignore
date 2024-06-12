@@ -1,0 +1,11 @@
+# Ignorer tous les fichiers .log
+*.log
+
+# Ignorer tous les fichiers temporaires
+*.tmp
+
+# Ignorer le fichier de configuration spécifique
+config.txt
+
+# Ignorer tout le contenu du dossier temp
+temp/
